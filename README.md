@@ -17,9 +17,9 @@ You're a cybersecurity expert tasked with checking and adjusting file permission
 <a href="https://docs.google.com/document/d/1t-9o-bPndpOIh9577FJobiakS10kJxgIKrB6GG7EPwA/template/preview?resourcekey=0-623w2JztdmNSu3nDbsQJcQ"><img src="https://img.shields.io/badge/-GoogleDOC:Instructions for including Linux commands-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 <a href="https://docs.google.com/document/d/1F3-8XQZsNagSzTkJwFzOGY5OHbGbMRtlb8GbmXE_gCc/template/preview?resourcekey=0-UUEu0EyFFvMf0SAipcel6w"><img src="https://img.shields.io/badge/-GoogleDOC:Current file Permisisions-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 
-## Explained File Permissions in Linux
+## Changed File Permissions explained
 
-<a href="https://docs.google.com/document/d/1LXCLcO2JIvwhwR1eDhXW8zVicf5YQuGKId4q5BoUN-Q/edit?usp=sharing"><img src="https://img.shields.io/badge/-GoogleDOCS: Explained File Permissions in Linux -FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://docs.google.com/document/d/1LXCLcO2JIvwhwR1eDhXW8zVicf5YQuGKId4q5BoUN-Q/edit?usp=sharing"><img src="https://img.shields.io/badge/-GoogleDOCS: Explained File Permissions changes-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 
 
 
